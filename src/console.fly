@@ -1,5 +1,4 @@
 
-class Console {
-    public static (void) print {
-    }
+public class Console final {
+    public static (void) print:(string)text extern;
 }
