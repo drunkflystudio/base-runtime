@@ -1,4 +1,5 @@
 #include <drunkfly/vm.h>
+#include <stdio.h>
 #include <stdarg.h>
 
 void Console_print(lua_State* L, va_list args)
